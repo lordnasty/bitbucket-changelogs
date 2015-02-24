@@ -1,8 +1,16 @@
-v0.0.4
+v0.0.5
 
-## [BUILD - v0.0.4](https://github.com/adonaac/asalzen/blob/master/ASALZEN_v0.0.4.zip?raw=true)
+## [BUILD - v0.0.5](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.5.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.5
+
+#### Additions
+
+* Testing build hook - [4c95aaf](https://bitbucket.org/adonaac/asalzen/commits/4c95aafd51b99bd13f66b897ff47e35e73692fa7) (2015-02-24 05:40:55)
+
+---
 
 ### v0.0.4
 
