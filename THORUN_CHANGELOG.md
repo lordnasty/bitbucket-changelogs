@@ -2,12 +2,6 @@ v0.0.3
 
 ## [BUILD - v0.0.3](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.3.zip?raw=true)
 
-## WARNING
-
-Documentation needed:
-
-* Test
-
 ## CHANGELOG
 
 ### v0.0.3
