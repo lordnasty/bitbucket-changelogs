@@ -1,8 +1,20 @@
-v0.0.5
+v0.0.6
 
-## [BUILD - v0.0.5](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.5.zip?raw=true)
+## [BUILD - v0.0.6](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.6.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.6
+
+#### Additions
+
+* Added 3D placement on editor and basic 3D collision solving (objects snap automatically to new heights) - [f985ef3](https://bitbucket.org/adonaac/asalzen/commits/f985ef396f7905d598e1eac59f11a89667a9a223) (2015-02-25 02:33:55)
+
+#### Fixes
+
+* Fixed bug with properties not saving if properties_frame hadn't been updated - [8b591aa](https://bitbucket.org/adonaac/asalzen/commits/8b591aacda6ffdf5149e9b7260945b9c883f8aab) (2015-02-24 06:18:22)
+
+---
 
 ### v0.0.5
 
