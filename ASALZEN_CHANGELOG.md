@@ -1,8 +1,20 @@
-v0.0.6
+v0.0.7
 
-## [BUILD - v0.0.6](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.6.zip?raw=true)
+## [BUILD - v0.0.7](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.7.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.7
+
+#### Additions
+
+* Add Intro level - [8001a2c](https://bitbucket.org/adonaac/asalzen/commits/8001a2cc5086ac403e441547ab0ac98530830240) (2015-02-26 23:33:45)
+
+#### Updates
+
+* Changed Script, CameraLimit to have a fixed size. Editor objects that have no use for their size in game (triggers, scripts, and in general other objects that provide some type of logic to the level) should all have fixed width/height from now on. - [fe69ae0](https://bitbucket.org/adonaac/asalzen/commits/fe69ae09352e94caac91b6f22582b170fb6b15a1) (2015-02-25 03:42:41)
+
+---
 
 ### v0.0.6
 
