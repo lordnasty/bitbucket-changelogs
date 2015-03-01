@@ -1,8 +1,17 @@
-v0.0.4
+v0.0.5
 
-## [BUILD - v0.0.4](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.4.zip?raw=true)
+## [BUILD - v0.0.5](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.5.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.5
+
+
+#### Fixes
+
+* Fixed slope collision generation issues - [cb8c4cb](https://bitbucket.org/adonaac/thorun/commits/cb8c4cb763c0826282f527afea9e10d4dbad1214) (2015-03-01 14:06:00)
+
+---
 
 ### v0.0.4
 
