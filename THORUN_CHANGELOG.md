@@ -2,6 +2,13 @@ v0.0.5
 
 ## [BUILD - v0.0.5](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.5.zip?raw=true)
 
+## TODO
+
+* #1: Capsule fall intro
+* #2: Capsule position finder sentry
+* #3: Capsule initial dialogue
+* #4: Boulder fall trigger
+
 ## CHANGELOG
 
 ### v0.0.5
