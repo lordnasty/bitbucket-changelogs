@@ -1,8 +1,23 @@
-v0.0.7
+v0.0.8
 
-## [BUILD - v0.0.7](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.7.zip?raw=true)
+## [BUILD - v0.0.8](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.8.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.8
+
+#### Additions
+
+* Added Broom - [090029c](https://bitbucket.org/adonaac/asalzen/commits/090029c2f1c4e353901c406a73928de8ca24c808) (2015-02-28 03:53:21)
+* Added several extra effects to Intro level - [090029c](https://bitbucket.org/adonaac/asalzen/commits/090029c2f1c4e353901c406a73928de8ca24c808) (2015-02-28 03:53:21)
+* Added scale and position memory to changes between editor and game - [d7124fb](https://bitbucket.org/adonaac/asalzen/commits/d7124fb260a21c7ace61ccc37750dc827f969196) (2015-03-01 18:49:06)
+* Added object linking - [d85fe22](https://bitbucket.org/adonaac/asalzen/commits/d85fe22245275342f462ac85da1592b5f9a6e2e6) (2015-03-02 15:32:27)
+
+#### Fixes
+
+* Fixed mouse2 selection on editor objects - [d7124fb](https://bitbucket.org/adonaac/asalzen/commits/d7124fb260a21c7ace61ccc37750dc827f969196) (2015-03-01 18:49:06)
+
+---
 
 ### v0.0.7
 

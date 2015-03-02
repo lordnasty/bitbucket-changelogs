@@ -1,6 +1,6 @@
-v0.0.5
+v0.0.6
 
-## [BUILD - v0.0.5](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.5.zip?raw=true)
+## [BUILD - v0.0.6](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.6.zip?raw=true)
 
 ## TODO
 
@@ -10,6 +10,14 @@ v0.0.5
 * #4: Boulder fall trigger
 
 ## CHANGELOG
+
+### v0.0.6
+
+#### Additions
+
+* Added object linking - [5ab87e3](https://bitbucket.org/adonaac/thorun/commits/5ab87e33fd01374e5a984e7b4c15cbac7f474150) (2015-03-02 15:40:00)
+
+---
 
 ### v0.0.5
 
