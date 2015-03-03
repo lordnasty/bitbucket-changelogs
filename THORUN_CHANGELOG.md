@@ -1,6 +1,6 @@
-v0.0.7
+v0.0.8
 
-## [BUILD - v0.0.7](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.7.zip?raw=true)
+## [BUILD - v0.0.8](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.8.zip?raw=true)
 
 ## TODO
 
@@ -10,6 +10,14 @@ v0.0.7
 * #4: Boulder fall trigger
 
 ## CHANGELOG
+
+### v0.0.8
+
+#### Additions
+
+* Added TriggerArea - [9f4696e](https://bitbucket.org/adonaac/thorun/commits/9f4696e25107d16899bd146871eaa46bb26aec9a) (2015-03-03 17:21:11)
+
+---
 
 ### v0.0.7
 
