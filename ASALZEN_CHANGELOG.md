@@ -1,8 +1,17 @@
-v0.0.8
+v0.0.9
 
-## [BUILD - v0.0.8](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.8.zip?raw=true)
+## [BUILD - v0.0.9](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.9.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.9
+
+
+#### Updates
+
+* Improved object linking and made it 100% functional - [f703738](https://bitbucket.org/adonaac/asalzen/commits/f703738b72552426283175f19fe6f68354dadf4c) (2015-03-03 02:42:10)
+
+---
 
 ### v0.0.8
 
