@@ -1,6 +1,6 @@
-v0.0.8
+v0.0.9
 
-## [BUILD - v0.0.8](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.8.zip?raw=true)
+## [BUILD - v0.0.9](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.9.zip?raw=true)
 
 ## TODO
 
@@ -8,8 +8,25 @@ v0.0.8
 * #2: Capsule position finder sentry
 * #3: Capsule initial dialogue
 * #4: Boulder fall trigger
+* #5: Wall sliding frame (Matt)
 
 ## CHANGELOG
+
+### v0.0.9
+
+#### Additions
+
+* Added wall sliding - [dda7259](https://bitbucket.org/adonaac/thorun/commits/dda7259845150ea5f5c282c239846c394ea2c745) (2015-03-03 20:52:06)
+
+#### Fixes
+
+* Fixed animation selection when running on slopes - [f6e2f5d](https://bitbucket.org/adonaac/thorun/commits/f6e2f5d893f131e25b5e86bc8f4845ccdbd57104) (2015-03-03 18:29:41)
+
+#### Updates
+
+* Implemented jump restrictions - [f6e2f5d](https://bitbucket.org/adonaac/thorun/commits/f6e2f5d893f131e25b5e86bc8f4845ccdbd57104) (2015-03-03 18:29:41)
+
+---
 
 ### v0.0.8
 
