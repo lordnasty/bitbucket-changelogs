@@ -1,6 +1,6 @@
-v0.0.6
+v0.0.7
 
-## [BUILD - v0.0.6](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.6.zip?raw=true)
+## [BUILD - v0.0.7](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.7.zip?raw=true)
 
 ## TODO
 
@@ -10,6 +10,19 @@ v0.0.6
 * #4: Boulder fall trigger
 
 ## CHANGELOG
+
+### v0.0.7
+
+#### Additions
+
+* ~ - [90418d6](https://bitbucket.org/adonaac/thorun/commits/90418d612135dac426efdcfe0f1ba5f339e4f4bf) (2015-03-03 17:03:19)
+
+#### Updates
+
+* Improved the editor in various areas - [9806468](https://bitbucket.org/adonaac/thorun/commits/98064680f29f8c8f8ea6e6089227518d19611278) (2015-03-03 17:01:59)
+* Improved object linking and it's now 100% functional - [9806468](https://bitbucket.org/adonaac/thorun/commits/98064680f29f8c8f8ea6e6089227518d19611278) (2015-03-03 17:01:59)
+
+---
 
 ### v0.0.6
 
