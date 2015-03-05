@@ -1,8 +1,21 @@
-v0.0.10
+v0.0.11
 
-## [BUILD - v0.0.10](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.10.zip?raw=true)
+## [BUILD - v0.0.11](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.11.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.11
+
+
+#### Fixes
+
+* Fixed several issues with serialization and map changing - [65f2a06](https://bitbucket.org/adonaac/asalzen/commits/65f2a066e0c89783f2647ffaee559bc3ca0a43cc) (2015-03-05 00:05:54)
+
+#### Updates
+
+* Updated multiple objects and adding instructions/tutorial locks - [8f98408](https://bitbucket.org/adonaac/asalzen/commits/8f98408bfe3bef58ddf0a43445e433fa9e944a07) (2015-03-05 05:59:30)
+
+---
 
 ### v0.0.10
 
