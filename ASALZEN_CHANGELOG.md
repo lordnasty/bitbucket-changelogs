@@ -1,8 +1,16 @@
-v0.0.9
+v0.0.10
 
-## [BUILD - v0.0.9](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.9.zip?raw=true)
+## [BUILD - v0.0.10](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.10.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.10
+
+#### Additions
+
+* Added TransPlayerPos - [3cfd23d](https://bitbucket.org/adonaac/asalzen/commits/3cfd23dad17cdf2f6238e0a33d78f6cf6992bcce) (2015-03-04 21:01:31)
+
+---
 
 ### v0.0.9
 
