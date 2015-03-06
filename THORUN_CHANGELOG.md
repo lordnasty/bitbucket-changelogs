@@ -1,6 +1,6 @@
-v0.0.9
+v0.0.10
 
-## [BUILD - v0.0.9](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.9.zip?raw=true)
+## [BUILD - v0.0.10](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.10.zip?raw=true)
 
 ## TODO
 
@@ -11,6 +11,15 @@ v0.0.9
 * #5: Wall sliding frame (Matt)
 
 ## CHANGELOG
+
+### v0.0.10
+
+
+#### Updates
+
+* Merge general bug fixes and refactors from ASZ - [ad3217b](https://bitbucket.org/adonaac/thorun/commits/ad3217bd29fcf1cb07e9cebe3e7b7db17c7b9764) (2015-03-06 19:45:26)
+
+---
 
 ### v0.0.9
 
