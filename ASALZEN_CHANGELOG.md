@@ -1,8 +1,26 @@
-v0.0.11
+v0.0.12
 
-## [BUILD - v0.0.11](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.11.zip?raw=true)
+## [BUILD - v0.0.12](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.12.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.12
+
+#### Additions
+
+* Added instruction texts - [3e89202](https://bitbucket.org/adonaac/asalzen/commits/3e892025f7665a07ae56b3b7783baca82dc6780e) (2015-03-05 23:48:47)
+
+#### Fixes
+
+* Fixed bugs with object linking - [3e89202](https://bitbucket.org/adonaac/asalzen/commits/3e892025f7665a07ae56b3b7783baca82dc6780e) (2015-03-05 23:48:47)
+* Fixed more object linking bugs - [da9f0fd](https://bitbucket.org/adonaac/asalzen/commits/da9f0fdc67ea184b3be664f200790719e37cbcdb) (2015-03-06 00:45:40)
+* Fixed object linking (again!) - [c51f28e](https://bitbucket.org/adonaac/asalzen/commits/c51f28e15664152aa9041fcead5ef11cfb9fabd1) (2015-03-06 18:55:48)
+
+#### Updates
+
+* Refactored ID system - [c51f28e](https://bitbucket.org/adonaac/asalzen/commits/c51f28e15664152aa9041fcead5ef11cfb9fabd1) (2015-03-06 18:55:48)
+
+---
 
 ### v0.0.11
 
