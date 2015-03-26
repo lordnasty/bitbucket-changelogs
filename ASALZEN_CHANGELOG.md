@@ -1,8 +1,20 @@
-v0.0.12
+v0.0.13
 
-## [BUILD - v0.0.12](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.12.zip?raw=true)
+## [BUILD - v0.0.13](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.13.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.13
+
+#### Additions
+
+* Added LocationInfo - [a5d0124](https://bitbucket.org/adonaac/asalzen/commits/a5d0124d81300d49b9f8e402ee4d706d30fef012) (2015-03-25 23:44:13)
+
+#### Updates
+
+* Figured out UI architecture - [a5d0124](https://bitbucket.org/adonaac/asalzen/commits/a5d0124d81300d49b9f8e402ee4d706d30fef012) (2015-03-25 23:44:13)
+
+---
 
 ### v0.0.12
 
