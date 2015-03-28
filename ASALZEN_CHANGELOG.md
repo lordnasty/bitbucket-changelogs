@@ -1,8 +1,19 @@
-v0.0.14
+v0.0.15
 
-## [BUILD - v0.0.14](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.14.zip?raw=true)
+## [BUILD - v0.0.15](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.15.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.15
+
+
+#### Updates
+
+* Figured out UI screen scaling - [6df0565](https://bitbucket.org/adonaac/asalzen/commits/6df0565bfb5a868d6451f599026e9b2ef0f00578) (2015-03-26 07:15:04)
+* Figured out UI scaling for real now! - [9befb09](https://bitbucket.org/adonaac/asalzen/commits/9befb0984dac74773ee4d770c3c00306c9af5bb9) (2015-03-28 03:03:47)
+* UI resizing system done - [4757452](https://bitbucket.org/adonaac/asalzen/commits/47574528a9b35aee5930893c829f6ac0221e7238) (2015-03-28 04:19:30)
+
+---
 
 ### v0.0.14
 
