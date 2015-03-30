@@ -1,6 +1,6 @@
-v0.0.10
+v0.0.11
 
-## [BUILD - v0.0.10](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.10.zip?raw=true)
+## [BUILD - v0.0.11](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.11.zip?raw=true)
 
 ## TODO
 
@@ -11,6 +11,15 @@ v0.0.10
 * #5: Wall sliding frame (Matt)
 
 ## CHANGELOG
+
+### v0.0.11
+
+#### Additions
+
+* Added new slopes - [74e9057](https://bitbucket.org/adonaac/thorun/commits/74e9057e1051e442677c8ad121270d36808e883b) (2015-03-08 09:40:15)
+* Added new sprites - [f5d4ca3](https://bitbucket.org/adonaac/thorun/commits/f5d4ca3c02b78fd4f0950930ea99e9435ed00418) (2015-03-30 19:22:30)
+
+---
 
 ### v0.0.10
 
