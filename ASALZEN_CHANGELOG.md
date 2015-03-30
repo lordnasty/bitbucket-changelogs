@@ -1,8 +1,16 @@
-v0.0.15
+v0.0.16
 
-## [BUILD - v0.0.15](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.15.zip?raw=true)
+## [BUILD - v0.0.16](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.16.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.16
+
+#### Additions
+
+* Adding pause UI - [36691d9](https://bitbucket.org/adonaac/asalzen/commits/36691d91b0e3dd467102d910b620ee2ad07e2be8) (2015-03-29 22:54:22)
+
+---
 
 ### v0.0.15
 
