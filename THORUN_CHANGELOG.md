@@ -1,6 +1,6 @@
-v0.0.11
+v0.0.12
 
-## [BUILD - v0.0.11](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.11.zip?raw=true)
+## [BUILD - v0.0.12](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.12.zip?raw=true)
 
 ## TODO
 
@@ -11,6 +11,14 @@ v0.0.11
 * #5: Wall sliding frame (Matt)
 
 ## CHANGELOG
+
+### v0.0.12
+
+#### Additions
+
+* Added + tested basic attack animations - [198d62f](https://bitbucket.org/adonaac/thorun/commits/198d62f8a2db9d1cc59d64d0492e617c3f96c40b) (2015-03-30 21:17:57)
+
+---
 
 ### v0.0.11
 
