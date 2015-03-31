@@ -1,8 +1,17 @@
-v0.0.16
+v0.0.17
 
-## [BUILD - v0.0.16](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.16.zip?raw=true)
+## [BUILD - v0.0.17](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.17.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.17
+
+
+#### Updates
+
+* UI buttons can now be selected - [f37d9d8](https://bitbucket.org/adonaac/asalzen/commits/f37d9d894d9a6ab9846d08e73290749054f42848) (2015-03-30 22:49:04)
+
+---
 
 ### v0.0.16
 
