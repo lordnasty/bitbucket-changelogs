@@ -1,6 +1,6 @@
-v0.0.12
+v0.0.13
 
-## [BUILD - v0.0.12](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.12.zip?raw=true)
+## [BUILD - v0.0.13](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.13.zip?raw=true)
 
 ## TODO
 
@@ -11,6 +11,15 @@ v0.0.12
 * #5: Wall sliding frame (Matt)
 
 ## CHANGELOG
+
+### v0.0.13
+
+
+#### Fixes
+
+* Fixed script loading issues - [0272d58](https://bitbucket.org/adonaac/thorun/commits/0272d5809dca049e46481e3373b8957ec37eee23) (2015-04-02 10:30:36)
+
+---
 
 ### v0.0.12
 
