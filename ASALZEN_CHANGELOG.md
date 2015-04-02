@@ -1,8 +1,29 @@
-v0.0.17
+v0.0.19
 
-## [BUILD - v0.0.17](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.17.zip?raw=true)
+## [BUILD - v0.0.19](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.19.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.19
+
+#### Additions
+
+* Added initPost setting for loading scripts when a script only needs to run after literally everything has been loaded and set to their proper positions - [a6653bf](https://bitbucket.org/adonaac/asalzen/commits/a6653bfe0781e86469d036fb9b75ada01efe56aa) (2015-04-02 03:46:35)
+
+#### Updates
+
+* Script loading now always after all other entities are loaded - [82ff77b](https://bitbucket.org/adonaac/asalzen/commits/82ff77bf8d5305a8b2695757f52773a29a7caf16) (2015-04-02 02:36:11)
+
+---
+
+### v0.0.18
+
+
+#### Fixes
+
+* Fixed script loading bug - [91683b8](https://bitbucket.org/adonaac/asalzen/commits/91683b88f92cb6e8a82988aec2499cb100e4985e) (2015-04-02 01:22:35)
+
+---
 
 ### v0.0.17
 
