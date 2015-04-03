@@ -1,6 +1,6 @@
-v0.0.13
+v0.0.14
 
-## [BUILD - v0.0.13](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.13.zip?raw=true)
+## [BUILD - v0.0.14](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.14.zip?raw=true)
 
 ## TODO
 
@@ -11,6 +11,14 @@ v0.0.13
 * #5: Wall sliding frame (Matt)
 
 ## CHANGELOG
+
+### v0.0.14
+
+#### Additions
+
+* Added snow backgrounds - [7428ea1](https://bitbucket.org/adonaac/thorun/commits/7428ea159ac11251d8f6625c0ca3c1cc57f713f8) (2015-04-03 13:49:53)
+
+---
 
 ### v0.0.13
 
