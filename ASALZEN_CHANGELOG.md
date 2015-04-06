@@ -1,8 +1,17 @@
-v0.0.19
+v0.0.20
 
-## [BUILD - v0.0.19](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.19.zip?raw=true)
+## [BUILD - v0.0.20](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.20.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.20
+
+#### Additions
+
+* Added dialogue system - [de83a2c](https://bitbucket.org/adonaac/asalzen/commits/de83a2c610c275f0a3b15d9c1377b94db28cc0d0) (2015-04-06 07:02:21)
+* Added first talk - [de83a2c](https://bitbucket.org/adonaac/asalzen/commits/de83a2c610c275f0a3b15d9c1377b94db28cc0d0) (2015-04-06 07:02:21)
+
+---
 
 ### v0.0.19
 
