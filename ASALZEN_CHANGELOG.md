@@ -1,8 +1,21 @@
-v0.0.20
+v0.0.21
 
-## [BUILD - v0.0.20](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.20.zip?raw=true)
+## [BUILD - v0.0.21](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.21.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.21
+
+#### Additions
+
+* Added contextual gamepad button UI instructions - [622beb6](https://bitbucket.org/adonaac/asalzen/commits/622beb66c53d32d53d8e39e04586357a8f3ea5bc) (2015-04-07 11:15:42)
+* Added skip button to dialogue - [c622da4](https://bitbucket.org/adonaac/asalzen/commits/c622da4097f24c097b24aac89bf45c217186e595) (2015-04-08 00:06:43)
+
+#### Updates
+
+* Improved InteractPopup so that it can be used for any UI purpose related to buttons - [c622da4](https://bitbucket.org/adonaac/asalzen/commits/c622da4097f24c097b24aac89bf45c217186e595) (2015-04-08 00:06:43)
+
+---
 
 ### v0.0.20
 
