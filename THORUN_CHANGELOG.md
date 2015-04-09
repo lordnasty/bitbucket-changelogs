@@ -1,6 +1,6 @@
-v0.0.14
+v0.0.15
 
-## [BUILD - v0.0.14](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.14.zip?raw=true)
+## [BUILD - v0.0.15](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.15.zip?raw=true)
 
 ## TODO
 
@@ -11,6 +11,18 @@ v0.0.14
 * #5: Wall sliding frame (Matt)
 
 ## CHANGELOG
+
+### v0.0.15
+
+#### Additions
+
+* Added mountain background - [6750c26](https://bitbucket.org/adonaac/thorun/commits/6750c2664a5213fe597450b66be63fcc2746deff) (2015-04-09 09:26:31)
+
+#### Updates
+
+* Finished ScriptHelper module - [6750c26](https://bitbucket.org/adonaac/thorun/commits/6750c2664a5213fe597450b66be63fcc2746deff) (2015-04-09 09:26:31)
+
+---
 
 ### v0.0.14
 
