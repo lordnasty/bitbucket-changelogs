@@ -1,16 +1,23 @@
-v0.0.15
+v0.0.16
 
-## [BUILD - v0.0.15](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.15.zip?raw=true)
+## [BUILD - v0.0.16](https://github.com/adonaac/bitbucket-changelogs/blob/master/THORUN_v0.0.16.zip?raw=true)
 
 ## TODO
 
-* #1: Capsule fall intro
 * #2: Capsule position finder sentry
 * #3: Capsule initial dialogue
 * #4: Boulder fall trigger
 * #5: Wall sliding frame (Matt)
 
 ## CHANGELOG
+
+### v0.0.16
+
+#### Additions
+
+* Added capsule fall intro - [5946fc4](https://bitbucket.org/adonaac/thorun/commits/5946fc451421daa6de9a37b1e0dde1e86954b8a7) (2015-04-09 18:54:35)
+
+---
 
 ### v0.0.15
 
