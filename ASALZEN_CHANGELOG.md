@@ -1,8 +1,25 @@
-v0.0.21
+v0.0.22
 
-## [BUILD - v0.0.21](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.21.zip?raw=true)
+## [BUILD - v0.0.22](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.22.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.22
+
+#### Additions
+
+* Added text attack intro info - [6a47c08](https://bitbucket.org/adonaac/asalzen/commits/6a47c08c4f31d55315495e99be9e0843a5bcbd9f) (2015-04-10 07:33:46)
+* Finished MainCorridor3 - [6a47c08](https://bitbucket.org/adonaac/asalzen/commits/6a47c08c4f31d55315495e99be9e0843a5bcbd9f) (2015-04-10 07:33:46)
+
+#### Fixes
+
+* Fixed skip button issues - [400366f](https://bitbucket.org/adonaac/asalzen/commits/400366f6d6e1b0f0ae6d336c7b7352d4b7c33c1d) (2015-04-08 06:42:09)
+
+#### Updates
+
+* Changed font to Roboto - [400366f](https://bitbucket.org/adonaac/asalzen/commits/400366f6d6e1b0f0ae6d336c7b7352d4b7c33c1d) (2015-04-08 06:42:09)
+
+---
 
 ### v0.0.21
 
