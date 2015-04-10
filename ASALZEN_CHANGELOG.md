@@ -1,8 +1,20 @@
-v0.0.22
+v0.0.23
 
-## [BUILD - v0.0.22](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.22.zip?raw=true)
+## [BUILD - v0.0.23](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.23.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.23
+
+#### Additions
+
+* Added introduction to combat with 2 rooms - [94e243f](https://bitbucket.org/adonaac/asalzen/commits/94e243ffa6bf353543c83ff16f1f20b8f29f8597) (2015-04-10 16:40:05)
+
+#### Fixes
+
+* Fixed fraction pixel position bug - [94e243f](https://bitbucket.org/adonaac/asalzen/commits/94e243ffa6bf353543c83ff16f1f20b8f29f8597) (2015-04-10 16:40:05)
+
+---
 
 ### v0.0.22
 
