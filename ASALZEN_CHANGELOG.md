@@ -1,8 +1,40 @@
-v0.0.24
+v0.0.25
 
-## [BUILD - v0.0.24](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.24.zip?raw=true)
+## [BUILD - v0.0.25](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.25.zip?raw=true)
+
+## TODO
+
+* #1: Add party add
+* #2: Add party UI
+* #3: Add status UI
+* #4: Add use/back UI buttons
+* #5: Add enemy stage HP hit effect
+* #6: Add combat locked counter timer
+* #7: Fix font scaling
+* #8: Fix hitting keys while a script is playing
+* #9: Fix outline scaling
+* #10: Fix enemy direction when waiting for player to attack on first room
+* #11: Add combat UI highlighting
+* #12: Add MeleeEasy enemy attack
+* #13: Add general melee enemy movement AI
+* #14: Add more hit effects
+* #15: Fix target lock selection when enemies die or when there are no enemies left in the current area
+* #16: Add proper interface for face creation/customization
+* #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
 
 ## CHANGELOG
+
+### v0.0.25
+
+#### Additions
+
+* Added TODO list - [4745502](https://bitbucket.org/adonaac/asalzen/commits/474550252b1d40f3cb935a4bfdcc2a54ebb8718c) (2015-04-12 19:13:46)
+
+#### Fixes
+
+* Fixed some issues with lock selection and lock radius - [4745502](https://bitbucket.org/adonaac/asalzen/commits/474550252b1d40f3cb935a4bfdcc2a54ebb8718c) (2015-04-12 19:13:46)
+
+---
 
 ### v0.0.24
 
