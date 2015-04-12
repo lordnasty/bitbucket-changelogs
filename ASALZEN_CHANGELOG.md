@@ -1,8 +1,21 @@
-v0.0.23
+v0.0.24
 
-## [BUILD - v0.0.23](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.23.zip?raw=true)
+## [BUILD - v0.0.24](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.24.zip?raw=true)
 
 ## CHANGELOG
+
+### v0.0.24
+
+#### Additions
+
+* Added multiple enemy stages/HP - [ee80717](https://bitbucket.org/adonaac/asalzen/commits/ee80717ea8393ab451b8d0acf8e138d95fc91357) (2015-04-12 15:17:22)
+* Added attack lock selection (L2/R2) - [ee80717](https://bitbucket.org/adonaac/asalzen/commits/ee80717ea8393ab451b8d0acf8e138d95fc91357) (2015-04-12 15:17:22)
+
+#### Updates
+
+* Changed controls to arrows + zxcvasdf - [ee80717](https://bitbucket.org/adonaac/asalzen/commits/ee80717ea8393ab451b8d0acf8e138d95fc91357) (2015-04-12 15:17:22)
+
+---
 
 ### v0.0.23
 
