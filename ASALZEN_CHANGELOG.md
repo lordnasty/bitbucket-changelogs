@@ -1,6 +1,6 @@
-v0.0.25
+v0.0.26
 
-## [BUILD - v0.0.25](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.25.zip?raw=true)
+## [BUILD - v0.0.26](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.26.zip?raw=true)
 
 ## TODO
 
@@ -18,11 +18,21 @@ v0.0.25
 * #12: Add MeleeEasy enemy attack
 * #13: Add general melee enemy movement AI
 * #14: Add more hit effects
-* #15: Fix target lock selection when enemies die or when there are no enemies left in the current area
-* #16: Add proper interface for face creation/customization
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
 
 ## CHANGELOG
+
+### v0.0.26
+
+#### Additions
+
+* Added proper interface for face creation/customization - [fd3c71e](https://bitbucket.org/adonaac/asalzen/commits/fd3c71ead5e545727997ff1a88f0bf90a8972e63) (2015-04-13 20:26:16)
+
+#### Fixes
+
+* Fixed target lock selection when enemies die or when there are no enemies left in the current area - [fd3c71e](https://bitbucket.org/adonaac/asalzen/commits/fd3c71ead5e545727997ff1a88f0bf90a8972e63) (2015-04-13 20:26:16)
+
+---
 
 ### v0.0.25
 
