@@ -1,6 +1,6 @@
-v0.0.26
+v0.0.27
 
-## [BUILD - v0.0.26](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.26.zip?raw=true)
+## [BUILD - v0.0.27](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.27.zip?raw=true)
 
 ## TODO
 
@@ -14,13 +14,21 @@ v0.0.26
 * #8: Fix hitting keys while a script is playing
 * #9: Fix outline scaling
 * #10: Fix enemy direction when waiting for player to attack on first room
-* #11: Add combat UI highlighting
 * #12: Add MeleeEasy enemy attack
 * #13: Add general melee enemy movement AI
 * #14: Add more hit effects
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
 
 ## CHANGELOG
+
+### v0.0.27
+
+
+#### Updates
+
+* Improved general readability on combat UI - [5bea033](https://bitbucket.org/adonaac/asalzen/commits/5bea033a8e8d23afab9330ef43ae2b11ccb9247e) (2015-04-14 09:53:33)
+
+---
 
 ### v0.0.26
 
