@@ -18,6 +18,7 @@ v0.0.27
 * #13: Add general melee enemy movement AI
 * #14: Add more hit effects
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
+* #18: Fix lock selected for combat when lock selection is used
 
 ## CHANGELOG
 
