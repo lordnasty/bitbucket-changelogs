@@ -1,6 +1,6 @@
-v0.0.27
+v0.0.28
 
-## [BUILD - v0.0.27](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.27.zip?raw=true)
+## [BUILD - v0.0.28](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.28.zip?raw=true)
 
 ## TODO
 
@@ -9,7 +9,6 @@ v0.0.27
 * #3: Add status UI
 * #4: Add use/back UI buttons
 * #5: Add enemy stage HP hit effect
-* #6: Add combat locked counter timer
 * #7: Fix font scaling
 * #8: Fix hitting keys while a script is playing
 * #9: Fix outline scaling
@@ -18,9 +17,20 @@ v0.0.27
 * #13: Add general melee enemy movement AI
 * #14: Add more hit effects
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
-* #18: Fix lock selected for combat when lock selection is used
 
 ## CHANGELOG
+
+### v0.0.28
+
+#### Additions
+
+* Added combat locked counter timer - [a342395](https://bitbucket.org/adonaac/asalzen/commits/a3423958b0abfe5eb78e8e7336c532cf95a0ccdb) (2015-04-15 21:10:57)
+
+#### Fixes
+
+* Fix lock selected for combat when lock selection is used - [a342395](https://bitbucket.org/adonaac/asalzen/commits/a3423958b0abfe5eb78e8e7336c532cf95a0ccdb) (2015-04-15 21:10:57)
+
+---
 
 ### v0.0.27
 
