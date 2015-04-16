@@ -1,6 +1,6 @@
-v0.0.28
+v0.0.29
 
-## [BUILD - v0.0.28](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.28.zip?raw=true)
+## [BUILD - v0.0.29](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.29.zip?raw=true)
 
 ## TODO
 
@@ -14,11 +14,19 @@ v0.0.28
 * #9: Fix outline scaling
 * #10: Fix enemy direction when waiting for player to attack on first room
 * #12: Add MeleeEasy enemy attack
-* #13: Add general melee enemy movement AI
 * #14: Add more hit effects
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
 
 ## CHANGELOG
+
+### v0.0.29
+
+#### Additions
+
+* Added general melee enemy movement AI - [c68c45c](https://bitbucket.org/adonaac/asalzen/commits/c68c45c6eced47387e6bbef2a5ccf4f6c667d7a0) (2015-04-16 09:23:19)
+* Added enemy coloring to distinguish different types in battle - [c68c45c](https://bitbucket.org/adonaac/asalzen/commits/c68c45c6eced47387e6bbef2a5ccf4f6c667d7a0) (2015-04-16 09:23:19)
+
+---
 
 ### v0.0.28
 
