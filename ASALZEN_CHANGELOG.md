@@ -1,6 +1,6 @@
-v0.0.29
+v0.0.30
 
-## [BUILD - v0.0.29](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.29.zip?raw=true)
+## [BUILD - v0.0.30](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.30.zip?raw=true)
 
 ## TODO
 
@@ -13,11 +13,18 @@ v0.0.29
 * #8: Fix hitting keys while a script is playing
 * #9: Fix outline scaling
 * #10: Fix enemy direction when waiting for player to attack on first room
-* #12: Add MeleeEasy enemy attack
 * #14: Add more hit effects
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
 
 ## CHANGELOG
+
+### v0.0.30
+
+#### Additions
+
+* Added MeleeEasy enemy attack - [957dc07](https://bitbucket.org/adonaac/asalzen/commits/957dc070c9e4971ef398ec11b3ba876eb1596824) (2015-04-16 18:48:59)
+
+---
 
 ### v0.0.29
 
