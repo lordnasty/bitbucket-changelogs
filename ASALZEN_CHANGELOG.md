@@ -1,6 +1,6 @@
-v0.0.30
+v0.0.31
 
-## [BUILD - v0.0.30](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.30.zip?raw=true)
+## [BUILD - v0.0.31](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.31.zip?raw=true)
 
 ## TODO
 
@@ -17,6 +17,14 @@ v0.0.30
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
 
 ## CHANGELOG
+
+### v0.0.31
+
+#### Additions
+
+* Added dodging (right face button) - [37f2608](https://bitbucket.org/adonaac/asalzen/commits/37f26081f401306dd596dece27ddaf6f25469001) (2015-04-17 08:30:03)
+
+---
 
 ### v0.0.30
 
