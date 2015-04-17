@@ -1,6 +1,6 @@
-v0.0.31
+v0.0.32
 
-## [BUILD - v0.0.31](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.31.zip?raw=true)
+## [BUILD - v0.0.32](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.32.zip?raw=true)
 
 ## TODO
 
@@ -17,6 +17,14 @@ v0.0.31
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
 
 ## CHANGELOG
+
+### v0.0.32
+
+#### Additions
+
+* Added MeleeEasyBlocker - [febdcff](https://bitbucket.org/adonaac/asalzen/commits/febdcff95475890ff3738bec88d88ed9635e1f10) (2015-04-17 17:06:11)
+
+---
 
 ### v0.0.31
 
