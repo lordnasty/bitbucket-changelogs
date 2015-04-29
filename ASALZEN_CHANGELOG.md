@@ -1,6 +1,6 @@
-v0.0.32
+v0.0.34
 
-## [BUILD - v0.0.32](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.32.zip?raw=true)
+## [BUILD - v0.0.34](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.34.zip?raw=true)
 
 ## TODO
 
@@ -17,6 +17,28 @@ v0.0.32
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
 
 ## CHANGELOG
+
+### v0.0.34
+
+#### Additions
+
+* Added LightAttack1 - [bced084](https://bitbucket.org/adonaac/asalzen/commits/bced084ab4b505f9bd9b0bf3fc1615c343767ed1) (2015-04-29 16:36:14)
+* Added Dodge - [bced084](https://bitbucket.org/adonaac/asalzen/commits/bced084ab4b505f9bd9b0bf3fc1615c343767ed1) (2015-04-29 16:36:14)
+
+#### Updates
+
+* Combat system refactor complete, now its a matter of implementing different attacks and enemy AI. I will also explain the system in its entirety once I have at least one piece of each part of the system implemented as gameplay - [bced084](https://bitbucket.org/adonaac/asalzen/commits/bced084ab4b505f9bd9b0bf3fc1615c343767ed1) (2015-04-29 16:36:14)
+
+---
+
+### v0.0.33
+
+
+#### Updates
+
+* Refactoring combat heavily - [9f9183e](https://bitbucket.org/adonaac/asalzen/commits/9f9183ea4f842d897027bfe594d978c8d9aeeeda) (2015-04-27 21:49:54)
+
+---
 
 ### v0.0.32
 
