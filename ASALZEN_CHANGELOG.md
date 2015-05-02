@@ -1,6 +1,6 @@
-v0.0.34
+v0.0.36
 
-## [BUILD - v0.0.34](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.34.zip?raw=true)
+## [BUILD - v0.0.36](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.36.zip?raw=true)
 
 ## TODO
 
@@ -17,6 +17,26 @@ v0.0.34
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
 
 ## CHANGELOG
+
+### v0.0.36
+
+#### Additions
+
+* Added Block (no parrying yet) - [7191902](https://bitbucket.org/adonaac/asalzen/commits/7191902724a491b8ed42a3ee74ddade6f234de36) (2015-05-02 01:38:10)
+
+#### Updates
+
+* Updated the behavior of a few combat rules, fixed some that were missing - [7191902](https://bitbucket.org/adonaac/asalzen/commits/7191902724a491b8ed42a3ee74ddade6f234de36) (2015-05-02 01:38:10)
+
+---
+
+### v0.0.35
+
+#### Additions
+
+* Added HeavyAttack1 - [eacafc3](https://bitbucket.org/adonaac/asalzen/commits/eacafc39b1cfad27ec438d3fdebbe1e8b366430b) (2015-05-01 12:58:59)
+
+---
 
 ### v0.0.34
 
