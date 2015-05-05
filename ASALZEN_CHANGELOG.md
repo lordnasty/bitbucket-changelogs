@@ -1,6 +1,6 @@
-v0.0.36
+v0.0.37
 
-## [BUILD - v0.0.36](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.36.zip?raw=true)
+## [BUILD - v0.0.37](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.37.zip?raw=true)
 
 ## TODO
 
@@ -17,6 +17,14 @@ v0.0.36
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
 
 ## CHANGELOG
+
+### v0.0.37
+
+#### Additions
+
+* Easily customizable characters via data/Characters.lua - [57ed5cc](https://bitbucket.org/adonaac/asalzen/commits/57ed5cce26c18024cb511583d389910a68b4724e) (2015-05-04 22:52:07)
+
+---
 
 ### v0.0.36
 
