@@ -1,6 +1,6 @@
-v0.0.37
+v0.0.39
 
-## [BUILD - v0.0.37](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.37.zip?raw=true)
+## [BUILD - v0.0.39](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.39.zip?raw=true)
 
 ## TODO
 
@@ -17,6 +17,23 @@ v0.0.37
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
 
 ## CHANGELOG
+
+### v0.0.39
+
+#### Additions
+
+* Added structure for passives - [8e6803e](https://bitbucket.org/adonaac/asalzen/commits/8e6803ef67d619495d45a540b938eebf9f8f209e) (2015-05-10 06:43:47)
+* Added Flashstep passive. Before all Light attacks, if active, the passive will make make you move really fast towards the locked enemy before attacking him. If there is no locked enemy then the passive will not do anything. - [8e6803e](https://bitbucket.org/adonaac/asalzen/commits/8e6803ef67d619495d45a540b938eebf9f8f209e) (2015-05-10 06:43:47)
+
+---
+
+### v0.0.38
+
+#### Additions
+
+* Added Lock - [3b5e63d](https://bitbucket.org/adonaac/asalzen/commits/3b5e63da395ce0801ac33875c15baee6a80672d0) (2015-05-07 05:14:11)
+
+---
 
 ### v0.0.37
 
