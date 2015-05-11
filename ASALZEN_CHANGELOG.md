@@ -1,6 +1,6 @@
-v0.0.39
+v0.0.40
 
-## [BUILD - v0.0.39](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.39.zip?raw=true)
+## [BUILD - v0.0.40](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.40.zip?raw=true)
 
 ## TODO
 
@@ -17,6 +17,15 @@ v0.0.39
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
 
 ## CHANGELOG
+
+### v0.0.40
+
+#### Additions
+
+* Adding more passives - [d06af4d](https://bitbucket.org/adonaac/asalzen/commits/d06af4d8e9cb1d0aa4571575a5016818067d3ff3) (2015-05-11 03:59:59)
+* Added damage basics - [d06af4d](https://bitbucket.org/adonaac/asalzen/commits/d06af4d8e9cb1d0aa4571575a5016818067d3ff3) (2015-05-11 03:59:59)
+
+---
 
 ### v0.0.39
 
