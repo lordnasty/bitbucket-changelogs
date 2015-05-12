@@ -8,13 +8,14 @@ v0.0.40
 * #2: Add party UI
 * #3: Add status UI
 * #4: Add use/back UI buttons
-* #5: Add enemy stage HP hit effect
 * #7: Fix font scaling
 * #8: Fix hitting keys while a script is playing
 * #9: Fix outline scaling
 * #10: Fix enemy direction when waiting for player to attack on first room
 * #14: Add more hit effects
 * #17: Redo first level so that both keys are introduced in it instead of only one (use multiple enemy stages when done)
+* #18: Fix ashamed head data
+* #19: Pixelated gradient on damage text
 
 ## CHANGELOG
 
