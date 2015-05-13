@@ -1,6 +1,6 @@
-v0.0.40
+v0.0.41
 
-## [BUILD - v0.0.40](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.40.zip?raw=true)
+## [BUILD - v0.0.41](https://github.com/adonaac/bitbucket-changelogs/blob/master/ASALZEN_v0.0.41.zip?raw=true)
 
 ## TODO
 
@@ -18,6 +18,16 @@ v0.0.40
 * #19: Pixelated gradient on damage text
 
 ## CHANGELOG
+
+### v0.0.41
+
+#### Additions
+
+* Added ashamed animations (head data off) - [e25aca3](https://bitbucket.org/adonaac/asalzen/commits/e25aca3f1db517a66fd5a6c5a338c33d377148b7) (2015-05-12 20:41:25)
+* Added basic damage text - [e25aca3](https://bitbucket.org/adonaac/asalzen/commits/e25aca3f1db517a66fd5a6c5a338c33d377148b7) (2015-05-12 20:41:25)
+* Added damage visuals in general - [08403dd](https://bitbucket.org/adonaac/asalzen/commits/08403dd3b6c9e9128f40d869b2b417868d07000e) (2015-05-13 01:22:02)
+
+---
 
 ### v0.0.40
 
